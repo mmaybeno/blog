@@ -1,1 +1,1 @@
-Sitemap: https://mmaybeno.github.io/blog/sitemap.xml
+Sitemap: https://mattmaybeno.com/sitemap.xml
