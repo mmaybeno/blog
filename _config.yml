@@ -62,6 +62,10 @@ show_tags: true
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: UA-43328832-1
 
+# Add your Umami ID and domain
+umami_id: acd24912-f9b4-4a75-94a6-ed2ed4e130c6
+umami_domain: mwm.ninja
+
 exclude:
   - docker-compose.yml
   - action.yml
