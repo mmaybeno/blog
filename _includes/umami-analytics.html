@@ -1,0 +1,7 @@
+<!-- the umami id and domain gets auto inserted from the config file -->
+
+{% if site.umami_id %}
+
+<script async defer data-website-id="{{site.umami_id}}" src="https://{{site.umami_domain}}/umami.js"></script>
+
+{% endif %}
