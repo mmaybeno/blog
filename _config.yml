@@ -63,7 +63,7 @@ show_tags: true
 google_analytics: UA-43328832-1
 
 # Add your Umami ID and domain
-umami_id: acd24912-f9b4-4a75-94a6-ed2ed4e130c6
+umami_id: f0eed229-2f82-4671-94f8-a83068962930 
 umami_domain: mwm.ninja
 
 exclude:
