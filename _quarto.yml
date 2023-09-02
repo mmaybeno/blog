@@ -16,6 +16,9 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
+    include-in-header:
+      - text: |
+          <script async defer data-website-id="acd24912-f9b4-4a75-94a6-ed2ed4e130c6" src="https://mwm.ninja/umami.js"></script>
 
 
 
