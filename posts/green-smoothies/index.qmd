@@ -1,7 +1,6 @@
 ---
 title: "Green Smoothies"
 subtitle: "Smoothies that were one of my daily drivers"
-author: "Matt Maybeno"
 date: "2023-08-26"
 categories: [food]
 ---

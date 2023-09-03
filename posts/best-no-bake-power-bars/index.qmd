@@ -1,7 +1,6 @@
 ---
 title: "Best no bake power bars"
 subtitle: "Quick breakfast that was one of my daily drivers"
-author: "Matt Maybeno"
 date: "2023-08-26"
 categories: [food]
 ---
