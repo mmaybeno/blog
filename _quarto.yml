@@ -18,7 +18,7 @@ format:
     css: styles.css
     include-in-header:
       - text: |
-          <script async defer data-website-id="f0eed229-2f82-4671-94f8-a83068962930" src="https://mwm.ninja/umami.js"></script>
+          <script async defer data-website-id="4acd2482-4e40-4a48-b713-595a08d5cdf2" src="https://mwm.ninja/umami.js"></script>
 
 
 
