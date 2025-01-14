@@ -10,9 +10,8 @@ about:
       href: https://github.com/mmaybeno
     - icon: instagram
       href: https://www.instagram.com/maybeno
-    - icon: twitter
-      href: https://twitter.com/biophetik
 
 ---
 
-Currently working at SOCi, a small San Diego startup located downtown. Recent musings are python, data science, and running.
+Currently working at SOCi, a small San Diego startup located downtown. Recent musings are machine learning, data science, python, and running.
+Currently working at SOCi, a small San Diego startup located downtown. Recent musings are machine learning, data science, python, and running.
