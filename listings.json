@@ -1,10 +1,6 @@
 [
   {
     "listing": "/index.html",
-    "items": [
-      "/posts/openai-function-calling/function_callings.html",
-      "/posts/green-smoothies/index.html",
-      "/posts/best-no-bake-power-bars/index.html"
-    ]
+    "items": []
   }
 ]
